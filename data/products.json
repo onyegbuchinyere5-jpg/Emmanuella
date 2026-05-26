@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop",
+    "price": 999.99,
+    "description": "High-performance laptop for work and play."
+  },
+  {
+    "id": 2,
+    "name": "Smartphone",
+    "price": 699.99,
+    "description": "Latest smartphone with a stunning display."
+  },
+  {
+    "id": 3,
+    "name": "Headphones",
+    "price": 199.99,
+    "description": "Noise-canceling headphones for immersive audio."
+  }
+]
